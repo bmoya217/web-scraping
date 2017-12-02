@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import TimeoutException
 
 # open firefox and set explicit wait time
 driver = webdriver.Chrome()
@@ -40,8 +41,6 @@ element.click()
 # wait to load tab
 element = wait.until(EC.element_to_be_clickable((By.XPATH, "//div[@class='fsl fwb fcb']/a")))
 
-##########################################################################
-
 # scroll down until all friends are loaded
 phold = driver.execute_script("return document.body.scrollHeight")
 while True:
@@ -75,7 +74,9 @@ for h in hrefs:
 		if e.text == "Male":
 			element = driver.find_element_by_id("fb-timeline-cover-name")
 			friends.append(element.text)
-			print element.text
+
+	if len(friends) > 6:
+		break 
 
 # More Dudes: The Renaissance
 driver.get('https://www.facebook.com/groups/855607817829997/')
@@ -85,7 +86,7 @@ for f in friends:
 	element = wait.until(EC.presence_of_element_located((By.XPATH, "//div[@class='groupAddMemberTypeaheadBox']//input[@class='inputtext textInput']")))
 	element.send_keys(f)
 	element.send_keys(Keys.ENTER)
-	time.sleep(.5)
+	time.sleep(1)
 	element.send_keys(Keys.CONTROL,'a')
 	element.send_keys(Keys.DELETE)
 
