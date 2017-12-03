@@ -68,13 +68,7 @@ def scrape(driver, wait, email, password):
 			if e.text == "Male":
 				element = driver.find_element_by_id("fb-timeline-cover-name")
 				dudes.append(element.text)
-
-				if len(dudes) == 1:
-					print(element.text, end="")
-				else:
-					print(", " + element.text, end="")
-				sys.stdout.flush()
-
+				
 	return dudes
 
 def add_more(driver, wait, dudes):
