@@ -20,14 +20,19 @@ def search(e, p):
 	driver.get('http://www.live.com')
 	time.sleep(random.uniform(2,3))
 
-	email = driver.find_element_by_id("i0116")
-	email.send_keys(e)
-	email.send_keys(Keys.ENTER)
+
+	element = driver.find_element_by_class_name("buttonLargeBlue")
+	element.click()
+	time.sleep(random.uniform(3,4))
+
+	element = driver.find_element_by_id("i0116")
+	element.send_keys(e)
+	element.send_keys(Keys.ENTER)
 	time.sleep(random.uniform(2,3))
 
-	password = driver.find_element_by_id("i0118")
-	password.send_keys(p)
-	password.send_keys(Keys.ENTER)
+	element = driver.find_element_by_id("i0118")
+	element.send_keys(p)
+	element.send_keys(Keys.ENTER)
 	time.sleep(random.uniform(2,3))
 	
 	# bing.com

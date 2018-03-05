@@ -1,0 +1,257 @@
+1512465763483	geckodriver	INFO	geckodriver 0.19.0
+1512465763489	geckodriver	INFO	Listening on 127.0.0.1:54623
+1512465764647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RMR6B8m3kVvb"
+1512465766424	Marionette	INFO	Enabled via --marionette
+1512465771524	Marionette	INFO	Listening on port 37575
+1512465771574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512465771621	Marionette	DEBUG	Register listener.js for window 2147483649
+1512465771646	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512465772846	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512465772847	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512465773167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1512465772&rver=6.7.6643.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=1033&id=64855&mkt=en-us&cbcxt=mai"
+1512465774088	Marionette	DEBUG	Received DOM event "pageshow" for "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1512465772&rver=6.7.6643.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=1033&id=64855&mkt=en-us&cbcxt=mai"
+1512465782022	Marionette	DEBUG	Received DOM event "beforeunload" for "https://outlook.live.com/owa/"
+1512465782158	Marionette	DEBUG	Received DOM event "pagehide" for "https://outlook.live.com/owa/"
+1512465782165	Marionette	DEBUG	Received DOM event "unload" for "https://outlook.live.com/owa/"
+1512465782288	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bing.com/"
+1512465782292	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bing.com/"
+[Child 5563, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5563, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 5563, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512609634825	geckodriver	INFO	geckodriver 0.19.0
+1512609634865	geckodriver	INFO	Listening on 127.0.0.1:59391
+1512609635986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6BxhO5Jz2VIc"
+1512609636965	Marionette	INFO	Enabled via --marionette
+1512609641434	Marionette	INFO	Listening on port 33739
+1512609641660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512609641706	Marionette	DEBUG	Register listener.js for window 2147483649
+1512609641741	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512609643555	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512609643555	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512609643854	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1512609642&rver=6.7.6643.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=1033&id=64855&mkt=en-us&cbcxt=mai"
+1512609644040	Marionette	DEBUG	Received DOM event "pageshow" for "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1512609642&rver=6.7.6643.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=1033&id=64855&mkt=en-us&cbcxt=mai"
+
+(/usr/lib/firefox/firefox:10430): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1512609651669	Marionette	DEBUG	Received DOM event "beforeunload" for "https://login.live.com/ppsecure/post.srf?wa=wsignin1.0&rpsnv=13&ct=1512609642&rver=6.7.6643.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=1033&id=64855&mkt=en-us&cbcxt=mai&contextid=A2EB8A9E5EBF7D32&bk=1512609643&uaid=44d4fdcf83cc40c1a7a64f9bff32b5c3&pid=0"
+1512609651844	Marionette	DEBUG	Received DOM event "pagehide" for "https://login.live.com/ppsecure/post.srf?wa=wsignin1.0&rpsnv=13&ct=1512609642&rver=6.7.6643.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=1033&id=64855&mkt=en-us&cbcxt=mai&contextid=A2EB8A9E5EBF7D32&bk=1512609643&uaid=44d4fdcf83cc40c1a7a64f9bff32b5c3&pid=0"
+1512609651845	Marionette	DEBUG	Received DOM event "unload" for "https://login.live.com/ppsecure/post.srf?wa=wsignin1.0&rpsnv=13&ct=1512609642&rver=6.7.6643.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=1033&id=64855&mkt=en-us&cbcxt=mai&contextid=A2EB8A9E5EBF7D32&bk=1512609643&uaid=44d4fdcf83cc40c1a7a64f9bff32b5c3&pid=0"
+1512609652038	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bing.com/"
+1512609652041	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bing.com/"
+[Child 10430, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10430, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10430, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-4iNLPJ/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1516571698432	geckodriver	INFO	geckodriver 0.19.0
+1516571698438	geckodriver	INFO	Listening on 127.0.0.1:48797
+1516571701712	geckodriver	INFO	geckodriver 0.19.0
+1516571701714	geckodriver	INFO	Listening on 127.0.0.1:42951
+1516571702944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vdH7fwB5dLj3"
+1516571706956	geckodriver	INFO	geckodriver 0.19.0
+1516571706959	geckodriver	INFO	Listening on 127.0.0.1:44221
+1516571708052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qZ6MtVeS8mRI"
+1516571710131	Marionette	INFO	Enabled via --marionette
+1516571714579	Marionette	INFO	Listening on port 36071
+1516571714736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516571714785	Marionette	DEBUG	Register listener.js for window 2147483649
+1516571714875	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516571715779	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516571715780	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516571716880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://outlook.live.com/owa/"
+1516571725092	Marionette	DEBUG	Received DOM event "pageshow" for "https://outlook.live.com/owa/"
+1516571760896	Marionette	DEBUG	Register listener.js for window 4294967297
+1516571760929	Marionette	DEBUG	Register listener.js for window 4294967299
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516572130573	geckodriver	INFO	geckodriver 0.19.0
+1516572130576	geckodriver	INFO	Listening on 127.0.0.1:60785
+1516572131667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BhRo9jUJpdsD"
+1516572132325	Marionette	INFO	Enabled via --marionette
+1516572135498	Marionette	INFO	Listening on port 46299
+1516572135665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516572135712	Marionette	DEBUG	Register listener.js for window 2147483649
+1516572135725	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516572136008	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516572136009	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516572136449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://outlook.live.com/owa/"
+1516572137632	Marionette	DEBUG	Received DOM event "pageshow" for "https://outlook.live.com/owa/"
+1516572139813	Marionette	DEBUG	Received DOM event "beforeunload" for "https://outlook.live.com/owa/"
+1516572140423	Marionette	DEBUG	Received DOM event "pagehide" for "https://outlook.live.com/owa/"
+1516572140424	Marionette	DEBUG	Received DOM event "unload" for "https://outlook.live.com/owa/"
+1516572140678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1516572139&rver=6.7.6640.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3db579f6aa-afc8-df0d-fd47-6714ea3c52f9&id=292841&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015"
+1516572140863	Marionette	DEBUG	Received DOM event "pageshow" for "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1516572139&rver=6.7.6640.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3db579f6aa-afc8-df0d-fd47-6714ea3c52f9&id=292841&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015"
+
+(/usr/lib/firefox/firefox:25226): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1516572149710	Marionette	DEBUG	Received DOM event "beforeunload" for "https://outlook.live.com/owa/"
+1516572149912	Marionette	DEBUG	Received DOM event "pagehide" for "https://outlook.live.com/owa/"
+1516572149919	Marionette	DEBUG	Received DOM event "unload" for "https://outlook.live.com/owa/"
+1516572149978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.bing.com/"
+1516572150004	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.bing.com/"
+[Child 25226, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25226, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25226, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ooc0Pu/firefox-57.0.4+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518164312468	geckodriver	INFO	geckodriver 0.19.0
+1518164312489	geckodriver	INFO	Listening on 127.0.0.1:50977
+1518164313683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dKYz1mGogKdN"
+1518164315100	Marionette	INFO	Enabled via --marionette
+1518164318193	Marionette	INFO	Listening on port 45869
+1518164318306	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16274): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 16274, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16274, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16274, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518380177849	geckodriver	INFO	geckodriver 0.19.0
+1518380177852	geckodriver	INFO	Listening on 127.0.0.1:52917
+1518380178939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lK5FZMyGCZHN"
+1518380179657	Marionette	INFO	Enabled via --marionette
+1518380181938	Marionette	INFO	Listening on port 36783
+1518380181953	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26099): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 26099, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26099, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26099, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518436631850	geckodriver	INFO	geckodriver 0.19.0
+1518436631865	geckodriver	INFO	Listening on 127.0.0.1:41213
+1518436632944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XTojDN58rHqN"
+1518436633712	Marionette	INFO	Enabled via --marionette
+1518436636261	Marionette	INFO	Listening on port 38047
+1518436636360	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7498): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8ad9f879c0' of type 'MaiAtkType139'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8add855dd0' of type 'MaiAtkType139'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8adcff62e0' of type 'MaiAtkType13b'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8ae12d9c40' of type 'MaiAtkType13b'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8ad8834560' of type 'MaiAtkType139'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8ad8834600' of type 'MaiAtkType13b'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8ae132e650' of type 'MaiAtkType13b'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8ad88347e0' of type 'MaiAtkType139'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8ad8834880' of type 'MaiAtkType13b'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8ae3b652e0' of type 'MaiAtkType13b'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8ad8834ab0' of type 'MaiAtkType139'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8ad8834f60' of type 'MaiAtkType13b'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8add4ce880' of type 'MaiAtkType13b'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8ad7da5330' of type 'MaiAtkType139'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8ad7da5420' of type 'MaiAtkType13b'
+
+(firefox:7431): GLib-GObject-WARNING **: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f8ae12d9510' of type 'MaiAtkType13b'
+[Child 7498, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7498, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7498, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518471355995	geckodriver	INFO	geckodriver 0.19.0
+1518471355997	geckodriver	INFO	Listening on 127.0.0.1:35405
+1518471357088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.odKbXDLZNg9h"
+1518471357809	Marionette	INFO	Enabled via --marionette
+1518471360278	Marionette	INFO	Listening on port 35369
+1518471360298	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8991): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 8991, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8991, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8991, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518519947751	geckodriver	INFO	geckodriver 0.19.0
+1518519947784	geckodriver	INFO	Listening on 127.0.0.1:57417
+1518519948858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Aks6pkXqGLIm"
+1518519950926	Marionette	INFO	Enabled via --marionette
+1518519954378	Marionette	INFO	Listening on port 35031
+1518519954477	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15484, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15484, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15484, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518597665170	geckodriver	INFO	geckodriver 0.19.0
+1518597665173	geckodriver	INFO	Listening on 127.0.0.1:38111
+1518597666266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NJ7nHF6i88E1"
+1518597667097	Marionette	INFO	Enabled via --marionette
+1518597669698	Marionette	INFO	Listening on port 38455
+1518597669828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.bing.com/, line 10: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 10: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 10: ReferenceError: sj_we is not defined
+1518597735979	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Child 25662, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25662, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25662, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518757870694	geckodriver	INFO	geckodriver 0.19.0
+1518757870738	geckodriver	INFO	Listening on 127.0.0.1:43495
+1518757871897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ma0ZKzQH4i5M"
+1518757877399	Marionette	INFO	Enabled via --marionette
+1518757885336	Marionette	INFO	Listening on port 42473
+1518757885429	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 26953, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26953, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26953, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519265808063	geckodriver	INFO	geckodriver 0.19.0
+1519265808086	geckodriver	INFO	Listening on 127.0.0.1:46631
+1519265809283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6tutMxRg3TsL"
+1519265810384	Marionette	INFO	Enabled via --marionette
+1519265813418	Marionette	INFO	Listening on port 37213
+1519265813559	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6045): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: http://www.bing.com/, line 10: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 10: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 10: ReferenceError: sj_we is not defined
+[Child 6045, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-h7Huxq/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6045, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-h7Huxq/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6045, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-h7Huxq/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519266097534	geckodriver	INFO	geckodriver 0.19.0
+1519266097537	geckodriver	INFO	Listening on 127.0.0.1:33275
+1519266098629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oPZouqoypqwf"
+1519266099838	Marionette	INFO	Enabled via --marionette
+1519266102406	Marionette	INFO	Listening on port 44263
+1519266102446	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6293): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  SessionStore: flushing all windows
+          Phase: quit-application-granted
+          State: {"total":1,"current":0}
+WARNING: TypeError: winData is undefined
+WARNING: ssi_collectWindowData@resource:///modules/sessionstore/SessionStore.jsm:3274:9
+flushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.jsm:1684:7
+observe@resource://gre/modules/AsyncShutdown.jsm:535:9
+GeckoDriver.prototype.quit@chrome://marionette/content/driver.js:3381:3
+despatch@chrome://marionette/content/server.js:560:20
+execute@chrome://marionette/content/server.js:534:11
+onPacket/<@chrome://marionette/content/server.js:509:15
+onPacket@chrome://marionette/content/server.js:508:8
+_onJSONObjectReady/<@chrome://marionette/content/transport.js:500:9
+
+1519704721273	geckodriver	INFO	geckodriver 0.19.0
+1519704721315	geckodriver	INFO	Listening on 127.0.0.1:37649
+1519704722461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.V8NbjlgkBinv"
+1519704725315	Marionette	INFO	Enabled via --marionette
+1519704729626	Marionette	INFO	Listening on port 34453
+1519704729691	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1675, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-h7Huxq/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1675, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-h7Huxq/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1675, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-h7Huxq/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519705115853	geckodriver	INFO	geckodriver 0.19.0
+1519705115856	geckodriver	INFO	Listening on 127.0.0.1:44591
+1519705116948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iSQNp1bX54tg"
+1519705117702	Marionette	INFO	Enabled via --marionette
+1519705120122	Marionette	INFO	Listening on port 35033
+1519705120160	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1519705167728	geckodriver	INFO	geckodriver 0.19.0
+1519705167731	geckodriver	INFO	Listening on 127.0.0.1:34897
+1519705168825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BAzFWjvRpLH0"
+1519705169596	Marionette	INFO	Enabled via --marionette
+1519705171995	Marionette	INFO	Listening on port 42495
+1519705172038	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
