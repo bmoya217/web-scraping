@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/usr/bin/python3.6",
+    
+    "python.autoComplete.extraPaths": [
+        "/usr/local/lib/python3.6/dist-packages/scrapy"
+    ],
+    "python.linting.pylintEnabled": false
+}
