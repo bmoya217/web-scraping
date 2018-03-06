@@ -4,5 +4,5 @@
     "python.autoComplete.extraPaths": [
         "/usr/local/lib/python3.6/dist-packages/scrapy"
     ],
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": true
 }
